@@ -1,0 +1,13 @@
+LinkSleeve
+==========
+
+A very simple library for using linksleeve.org in ruby.
+
+
+Example
+=======
+
+LinkSleeve.spam?("Some string.") #=> false
+
+
+Copyright (c) 2008 [name of plugin creator], released under the MIT license
