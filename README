@@ -10,4 +10,4 @@ Example
 LinkSleeve.spam?("Some string.") #=> false
 
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Tricycle I.T., released under the MIT license
